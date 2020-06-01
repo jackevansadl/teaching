@@ -1,0 +1,77 @@
+Cell info:
+========================================================================
+number-of-unit-cells: 2 2 2
+unit-cell-vector-a:    20.022000000000     0.000000000000     0.000000000000
+unit-cell-vector-b:     0.000000000000    19.899000000000     0.000000000000
+unit-cell-vector-c:     0.000000000000     0.000000000000    13.383000000000
+
+cell-vector-a:    40.044000000000     0.000000000000     0.000000000000
+cell-vector-b:     0.000000000000    39.798000000000     0.000000000000
+cell-vector-c:     0.000000000000     0.000000000000    26.766000000000
+
+cell-lengths:    20.022000000000    19.899000000000    13.383000000000
+cell-angles:    90.000000000000    90.000000000000    90.000000000000
+
+
+Maximum changes for MC-moves:
+========================================================================
+Maximum-volume-change: 0.000500
+Maximum-Gibbs-volume-change: 0.000781
+Maximum-box-shape-change: 0.100000 0.100000 0.100000, 0.100000 0.100000 0.100000, 0.100000 0.100000 0.100000
+
+
+Acceptance targets for MC-moves:
+========================================================================
+Target-volume-change: 0.500000
+Target-box-shape-change: 0.500000
+Target-Gibbs-volume-change: 0.500000
+
+
+Components: 1 (Adsorbates 6, Cations 0)
+========================================================================
+	Maximum-translation-change component 0: 1.000000,1.000000,1.000000
+	Maximum-translation-in-plane-change component 0: 0.000000,0.000000,0.000000
+	Maximum-rotation-change component 0: 0.017453 0.017453 0.017453
+
+Reactions: 0
+
+Component: 0     Adsorbate    6 molecules of methane
+------------------------------------------------------------------------
+Adsorbate-atom-position: 0 0     6.908088091563    15.266917697645    18.995382409740
+Adsorbate-atom-position: 1 0    20.152779946660    11.008948691085     6.532794690641
+Adsorbate-atom-position: 2 0    10.138532380524    20.593975574804    13.579046427239
+Adsorbate-atom-position: 3 0    30.105385971886    18.723435204357    26.412459785642
+Adsorbate-atom-position: 4 0    19.639062179278    19.202463935481    20.394527096625
+Adsorbate-atom-position: 5 0     5.408013351761    24.768552918428    24.390526534170
+Adsorbate-atom-velocity: 0 0    -3.515996976517    -1.679909626119     7.299917194627
+Adsorbate-atom-velocity: 1 0     1.490249090495    -5.895675642589     0.648677816735
+Adsorbate-atom-velocity: 2 0     7.824534058422    -0.106238936979    -5.001628206348
+Adsorbate-atom-velocity: 3 0     1.379174859305    -8.933959636943    -1.868157407906
+Adsorbate-atom-velocity: 4 0   -10.512684357556     5.076470508473    -4.640530190920
+Adsorbate-atom-velocity: 5 0     0.918175356024     8.581582826155     1.519211655388
+Adsorbate-atom-force:    0 0     0.000000000000     0.000000000000     0.000000000000
+Adsorbate-atom-force:    1 0     0.000000000000     0.000000000000     0.000000000000
+Adsorbate-atom-force:    2 0     0.000000000000     0.000000000000     0.000000000000
+Adsorbate-atom-force:    3 0     0.000000000000     0.000000000000     0.000000000000
+Adsorbate-atom-force:    4 0     0.000000000000     0.000000000000     0.000000000000
+Adsorbate-atom-force:    5 0     0.000000000000     0.000000000000     0.000000000000
+Adsorbate-atom-charge:   0 0     0.000000000000
+Adsorbate-atom-charge:   1 0     0.000000000000
+Adsorbate-atom-charge:   2 0     0.000000000000
+Adsorbate-atom-charge:   3 0     0.000000000000
+Adsorbate-atom-charge:   4 0     0.000000000000
+Adsorbate-atom-charge:   5 0     0.000000000000
+Adsorbate-atom-scaling:  0 0     1.000000000000
+Adsorbate-atom-scaling:  1 0     1.000000000000
+Adsorbate-atom-scaling:  2 0     1.000000000000
+Adsorbate-atom-scaling:  3 0     1.000000000000
+Adsorbate-atom-scaling:  4 0     1.000000000000
+Adsorbate-atom-scaling:  5 0     1.000000000000
+Adsorbate-atom-fixed:    0 0       0 0 0
+Adsorbate-atom-fixed:    1 0       0 0 0
+Adsorbate-atom-fixed:    2 0       0 0 0
+Adsorbate-atom-fixed:    3 0       0 0 0
+Adsorbate-atom-fixed:    4 0       0 0 0
+Adsorbate-atom-fixed:    5 0       0 0 0
+
+
