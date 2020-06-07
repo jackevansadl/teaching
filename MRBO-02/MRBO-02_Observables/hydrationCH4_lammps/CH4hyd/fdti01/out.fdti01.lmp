@@ -1,0 +1,26 @@
+LAMMPS (7 Aug 2019)
+Methane in TIP4P water
+Reading data file ...
+  orthogonal box = (-13.4438 -13.4438 -13.4438) to (13.4438 13.4438 13.4438)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  1085 atoms
+  scanning bonds ...
+  1 = max bonds/atom
+  scanning angles ...
+  6 = max angles/atom
+  reading bonds ...
+  724 bonds
+  reading angles ...
+  366 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   0          0          0.5       
+  special bond factors coul: 0          0          0.5       
+  4 = max # of 1-2 neighbors
+  3 = max # of 1-3 neighbors
+  3 = max # of 1-4 neighbors
+  4 = max # of special neighbors
+  special bonds CPU = 0.00026083 secs
+  read_data CPU = 0.00445414 secs
+ERROR: Illegal pair_style command (../pair_lj_cut_coul_long.cpp:596)
+Last command: pair_style hybrid   lj/cut/coul/long 10.0 10.0   lj/cut/tip4p/long/soft 3 4 2 2 0.125 1 0.5 10.0 10.0 10.0
